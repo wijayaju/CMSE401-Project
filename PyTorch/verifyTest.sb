@@ -1,0 +1,9 @@
+#!/bin/bash --login
+#SBATCH --time=00:01:00
+#SBATCH -c 1
+#SBATCH -N 1
+#SBATCH --gpus=v100:1
+#SBATCH --mem=1G
+
+module load PyTorch
+python test.py
