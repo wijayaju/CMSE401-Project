@@ -6,4 +6,4 @@
 #SBATCH --mem=1G
 
 module load PyTorch
-python test.py
+python verifyTest.py

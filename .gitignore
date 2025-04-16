@@ -1,3 +1,4 @@
-*.ipynbcheckpoint
+.ipynb_checkpoints
 __pychache__
 data/
+slurm*
