@@ -1,52 +1,56 @@
+Files already downloaded and verified
+Files already downloaded and verified
 Using device: cpu
-Training loss: 2.1036471668591123
-Training loss: 1.3677005800865352
-Training loss: 0.9627679325243049
-Training loss: 0.820104982997817
-Training loss: 0.7444276585698382
+Training loss: 3.7390074158201414
+Training loss: 3.0042595133489494
+Training loss: 2.5817412253545253
+Training loss: 2.2670025022662417
+Training loss: 2.0421100635917817
 Number Of Images Tested = 10000
+Model Accuracy = 0.2742
 
-Model Accuracy = 0.7384
-
-real	0m32.779s
-user	10m16.059s
-sys	0m3.125s
+real	1m58.986s
+user	34m28.227s
+sys	1m3.306s
+Files already downloaded and verified
+Files already downloaded and verified
 Using device: cuda:0
-Training loss: 2.141388560663154
-Training loss: 1.4199844554289063
-Training loss: 0.9765466577462805
-Training loss: 0.8153911743845258
-Training loss: 0.7395714004474409
+Training loss: 3.732817031899277
+Training loss: 3.001658777801358
+Training loss: 2.589051218665376
+Training loss: 2.2609813097788365
+Training loss: 2.0077339331714477
 Number Of Images Tested = 10000
+Model Accuracy = 0.2992
 
-Model Accuracy = 0.7313
-
-real	0m34.585s
-user	0m33.671s
-sys	0m0.947s
+real	0m47.986s
+user	0m45.482s
+sys	0m1.375s
+Files already downloaded and verified
+Files already downloaded and verified
 Using device: cuda:0
-Training loss: 2.13347562658253
-Training loss: 1.4016528791074814
-Training loss: 0.9696622388576394
-Training loss: 0.8151455342388356
-Training loss: 0.737783287792826
+Training loss: 3.7369401637388737
+Training loss: 3.0026058068080825
+Training loss: 2.5848210520890293
+Training loss: 2.2620932380763854
+Training loss: 1.999074280870204
 Number Of Images Tested = 10000
+Model Accuracy = 0.2578
 
-Model Accuracy = 0.738
-
-real	0m55.268s
-user	0m56.350s
-sys	0m2.871s
+real	1m48.072s
+user	2m21.798s
+sys	0m3.272s
+Files already downloaded and verified
+Files already downloaded and verified
 Using device: cuda:0
-Training loss: 2.103570804794206
-Training loss: 1.3557962091492692
-Training loss: 0.9671265640492632
-Training loss: 0.8213247338464773
-Training loss: 0.7438612219049479
+Training loss: 3.7898184900381127
+Training loss: 3.0508694575757396
+Training loss: 2.6149822357965977
+Training loss: 2.2670414459948636
+Training loss: 2.025807815546892
 Number Of Images Tested = 10000
+Model Accuracy = 0.2663
 
-Model Accuracy = 0.7314
-
-real	0m59.476s
-user	1m4.350s
-sys	0m4.076s
+real	1m47.729s
+user	2m49.527s
+sys	0m5.338s

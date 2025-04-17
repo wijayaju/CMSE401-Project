@@ -48,8 +48,8 @@ labels_map = {
 gpus = int(sys.argv[1]) if len(sys.argv) > 1 else -1
 device_ids = list(range(gpus))
 
-trainloader = torch.utils.data.DataLoader(training_data, batch_size=64)
-testloader = torch.utils.data.DataLoader(test_data, batch_size=64)
+trainloader = torch.utils.data.DataLoader(training_data, batch_size=256)
+testloader = torch.utils.data.DataLoader(test_data, batch_size=256)
 
 device = (
     "cuda:0" if torch.cuda.is_available() and gpus >= 0 else
@@ -64,7 +64,7 @@ input_size = 784
 hidden_sizes = [128, 64]
 output_size = 10
 
-model = models.resnet18(pretrained=False)
+model = models.resnet18(weights=None)
 model.fc = nn.Linear(model.fc.in_features, 100)
 
 if gpus > 1:
