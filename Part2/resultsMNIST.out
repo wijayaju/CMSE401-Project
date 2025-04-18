@@ -1,0 +1,52 @@
+Using device: cpu
+Training loss: 2.126776833142807
+Training loss: 1.403609502862003
+Training loss: 0.9864089677074571
+Training loss: 0.8350609676924341
+Training loss: 0.7599425123952853
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.7215
+
+real	0m33.930s
+user	10m18.321s
+sys	0m3.148s
+Using device: cuda:0
+Training loss: 2.171746528479082
+Training loss: 1.4687080806506467
+Training loss: 0.9836215184314419
+Training loss: 0.8180961066853009
+Training loss: 0.7409157695165322
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.7349
+
+real	0m34.716s
+user	0m33.789s
+sys	0m0.944s
+Using device: cuda:0
+Training loss: 2.12687330548443
+Training loss: 1.4378738155497162
+Training loss: 1.0104673942014861
+Training loss: 0.8407444040150022
+Training loss: 0.753587414460904
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.7326
+
+real	0m55.644s
+user	0m56.667s
+sys	0m2.986s
+Using device: cuda:0
+Training loss: 2.1240251430316266
+Training loss: 1.3813613031718777
+Training loss: 0.9860152703231332
+Training loss: 0.8341584099508298
+Training loss: 0.7564825936039882
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.7276
+
+real	1m2.070s
+user	1m7.501s
+sys	0m4.068s
