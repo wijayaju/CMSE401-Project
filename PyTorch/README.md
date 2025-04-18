@@ -1,3 +1,6 @@
+# Abstract
+PyTorch is a programming library for deep learning applications. It is well known for its ease of use and strong GPU acceleration.
+
 # Installation
 To install PyTorch on the HPCC, run either of the following commands:
 ```
